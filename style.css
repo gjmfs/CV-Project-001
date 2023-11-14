@@ -1,0 +1,155 @@
+body{
+    text-transform: capitalize;
+    padding: 0%;
+    background-image: url("https://drive.google.com/uc?export=view&id=1_GqvR4h0GkaD4WH-QddxrbSMrY_WBsL0");
+    background-repeat: no-repeat;
+    background-size: cover;
+    scroll-behavior: smooth;
+}
+h2{
+  background-color: #460952;
+  color: #f2f2f2;
+  padding: 0%;
+  border-right:5px solid white;
+  text-align: center;
+
+}
+.main{
+    
+}
+.left{
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+.right{
+    height: 100%;
+    width: 70%;
+    float: right;
+}
+.profile{
+    width: 374px;
+    height: 482.2px;
+}
+
+.topnav {
+    background-color: #1571db;
+    overflow: hidden;
+}
+  
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px 0px;
+  text-decoration: none;
+  font-size: 17px;
+  
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #530e61;
+  color: rgb(255, 255, 255);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #093774;
+  color: white;
+}
+a{
+  width: 33.33%;
+}
+.ol{
+  width: 50%;
+  float: left;
+  height: 300px;
+}
+.al{
+  width: 50%;
+  float: right;
+  height: 300px;
+}
+.table{
+  width: 100%;
+  border-collapse: collapse;
+  border-color: black;
+  border: 10px;
+  height: 100%;
+}
+caption{
+  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+  border-radius: 30px;
+  color: aliceblue;
+  background-color: #690b55;
+}
+.th{
+  height: 50px;
+  background-color: rgb(45, 111, 116);
+}
+.td{
+  text-align: center;
+  background-color: #6b6b6b;
+}
+.th, td {
+  padding: 12px;
+
+}
+
+.tr:hover {
+  background-color: rgb(6, 106, 255); color: aliceblue;
+}
+.Uni{
+  margin-top: 600px;
+  margin-left: -16px;
+  font-size: larger;
+  color: #ffffff;
+}
+.degree{
+  width: 70%;
+  text-align: center;
+  background-color: #6b6b6b;
+}
+.year{
+  width: 30%;
+  text-align: center;
+  height: 35px;
+  background-color: rgb(45, 111, 116);
+}
+.DetailedInfo{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
+.Studies{
+  font-size: larger;
+  color: #ffffff;
+}
+.preDe{
+  width: 100%;
+  border-collapse: collapse;
+  border-color: rgb(179, 174, 174);
+  border: 10px;
+  height: 100%;
+  border-radius: 35px;
+}
+.ptd{
+  text-align: center;
+}
+.ptr{
+
+}
+.pth{
+  height: 50px;
+  background-color: rgb(223, 223, 223);
+}
+.ptr:hover {
+  background-color: rgb(196, 187, 187); color: rgb(0, 0, 0);
+}
+.myadd{
+  text-decoration: none;
+  color: black;
+}
